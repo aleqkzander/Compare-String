@@ -1,0 +1,10 @@
+D:\String-Compare\String-Compare\String-Compare\bin\Debug\String-Compare.exe.config
+D:\String-Compare\String-Compare\String-Compare\bin\Debug\String-Compare.exe
+D:\String-Compare\String-Compare\String-Compare\bin\Debug\String-Compare.pdb
+D:\String-Compare\String-Compare\String-Compare\obj\Debug\String-Compare.csproj.AssemblyReference.cache
+D:\String-Compare\String-Compare\String-Compare\obj\Debug\String_Compare.Form1.resources
+D:\String-Compare\String-Compare\String-Compare\obj\Debug\String_Compare.Properties.Resources.resources
+D:\String-Compare\String-Compare\String-Compare\obj\Debug\String-Compare.csproj.GenerateResource.cache
+D:\String-Compare\String-Compare\String-Compare\obj\Debug\String-Compare.csproj.CoreCompileInputs.cache
+D:\String-Compare\String-Compare\String-Compare\obj\Debug\String-Compare.exe
+D:\String-Compare\String-Compare\String-Compare\obj\Debug\String-Compare.pdb
