@@ -1,3 +1,3 @@
-# Compare-String
+# String-Compare
 
-Simply compare two strings and show a score
+A windows-forms app two compare two strings and show a score
